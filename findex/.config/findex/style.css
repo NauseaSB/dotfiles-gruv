@@ -1,0 +1,82 @@
+.findex-window {
+    background: transparent;
+}
+
+.findex-container {
+    background: #202020;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.findex-query {
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    color: #202020;
+    border: none;
+}
+
+.findex-results-scroll {
+    padding: 15px;
+}
+
+.findex-results {
+    background: none;
+    border-radius: 5px;
+}
+
+.findex-result-row {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.findex-result-row:selected {
+    background: #505050;
+}
+
+.findex-result-app-name {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.findex-result-app-description,
+.findex-result-app-command {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.findex-result-app-name,
+.findex-result-app-description,
+.findex-result-app-command {
+    margin-left: 7px;
+}
+
+.findex-result-app-command {
+    font-style: italic;
+}
+
+.findex-result-row box:last-child {
+    margin-left: 10px;
+}
+
+.findex-results:first-child {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.findex-results:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom: 1px solid transparent;
+}
+
+.findex-query-container {
+    background-image: url("/home/andrian/wallpaper/gruv/kiku-1-gruv.jpg");	
+    background-size: 600px;
+    border-radius: 10px;
+    background-position: 0px -90px;
+    padding: 20px;
+}

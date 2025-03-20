@@ -1,0 +1,8 @@
+[Data]
+Name=Arc-Lighter
+Thumbnail=/home/andrian/.config/XfceThemeManager/meta/Arc-Lighter.png
+GtkTheme=Arc-Lighter
+Xfwm4Theme=Arc-Lighter
+IconTheme=Adwaita
+CursorTheme=DMZ-Black
+

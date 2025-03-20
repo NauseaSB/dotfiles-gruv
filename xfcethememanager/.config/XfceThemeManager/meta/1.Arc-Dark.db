@@ -1,0 +1,8 @@
+[Data]
+Name=Arc-Dark
+Thumbnail=/home/andrian/.config/XfceThemeManager/meta/Arc-Dark.png
+GtkTheme=Arc-Dark
+Xfwm4Theme=Arc-Dark
+IconTheme=Adwaita
+CursorTheme=DMZ-Black
+
