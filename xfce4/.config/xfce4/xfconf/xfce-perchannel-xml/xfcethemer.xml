@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfcethemer" version="1.0">
-  <property name="ThemesHash" type="string" value="f3b43a418417ea7703402c2657bddc6f"/>
+  <property name="ThemesHash" type="string" value="87bb0cdcfca85910e155b3328863e9e6"/>
   <property name="MetaTheme" type="string" value="DEADBEEF"/>
   <property name="PreveiwSize" type="int" value="48"/>
   <property name="ShowOnlyCustom" type="int" value="0"/>
