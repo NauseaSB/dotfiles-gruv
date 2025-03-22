@@ -101,5 +101,11 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
+alias c="clear"
+alias svim="sudo vim"
+alias ff="fastfetch"
+alias gad="git add ."
+alias gc="git commit"
+alias gp="git push"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
